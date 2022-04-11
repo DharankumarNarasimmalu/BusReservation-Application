@@ -1,0 +1,17 @@
+FUNCTIONAL DETAILS OF BUS RESERVATION SYSTEM
+1.login passenger
+2.signup
+3.login admin
+4.forget password
+5.admin changes businfo
+6.getting pasenger info
+7.search bus by place and date
+8.select prefered seat
+9.ticketbooking
+10.ticket cancellation
+11.customer complaint
+12.customer feedback
+13.discount
+14.payment
+15.food delivery if needed
+16.show and download ticket
